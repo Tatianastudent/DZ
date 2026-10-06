@@ -1,0 +1,18 @@
+Index: lesson3/mailing.py
+===================================================================
+diff --git a/lesson3/mailing.py b/lesson3/mailing.py
+--- a/lesson3/mailing.py	(revision 548174ba6341c6591085f427a35339a1a089cc25)
++++ b/lesson3/mailing.py	(date 1791202947109)
+@@ -1,0 +1,11 @@
++class Mailing:
++
++    def_init_(self, to_address, from_address, cost, track):
++       self.to_address = to_address
++       self.from_address = from_address
++       self.cost = cost
++       self.track = track
++
++    def_str_(self):
++       return (f' Отправление {self.track} из {self.from_address}'
++               f' в {self.to_address}. Стоимость {self.cost} рублей.')
+\ No newline at end of file

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce51690d-db07-4d9f-8f8a-7ecf78aa7e4d" name="Changes" comment="Домашнее задание №4 на проверку python" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lesson4" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Tatianastudent&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Tatianastudent/DZ.git&quot;,
+    &quot;accountId&quot;: &quot;7bd65d66-ec10-45d2-b196-bea0a8d2506c&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="3K60V1G0E7V2iK5gn7uTfxpKqmS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/PYTHON/DZ/lesson4",
+    "settings.editor.selected.configurable": "vcs.log"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PYTHON\DZ\lesson4" />
+      <recent name="C:\PYTHON\DZ\lesson33" />
+      <recent name="C:\PYTHON\DZ\lesson_03" />
+      <recent name="C:\PYTHON\DZ\lesson3" />
+      <recent name="C:\PYTHON\DZ" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-b3d66beaba9a-c6efb3732140-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26199.168" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce51690d-db07-4d9f-8f8a-7ecf78aa7e4d" name="Changes" comment="" />
+      <created>1790862732799</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790862732799</updated>
+    </task>
+    <task id="LOCAL-00001" summary="123">
+      <option name="closed" value="true" />
+      <created>1790862978595</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1790862978595</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1234">
+      <option name="closed" value="true" />
+      <created>1790863922741</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1790863922742</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Домашнее задание №1 на проверке python">
+      <option name="closed" value="true" />
+      <created>1790864474743</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1790864474743</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Домашнее задание №2 на проверке python">
+      <option name="closed" value="true" />
+      <created>1790865138396</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1790865138396</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Домашнее задание №1 на проверке python">
+      <option name="closed" value="true" />
+      <created>1791009899736</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1791009899736</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Домашнее задание №3 на проверку python">
+      <option name="closed" value="true" />
+      <created>1791120679005</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1791120679006</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Домашнее задание №3 на проверку python">
+      <option name="closed" value="true" />
+      <created>1791203787031</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1791203787031</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Домашнее задание №3 на проверку python">
+      <option name="closed" value="true" />
+      <created>1791212794273</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1791212794273</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Домашнее задание №3 на проверку python">
+      <option name="closed" value="true" />
+      <created>1791213143534</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1791213143534</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Домашнее задание №3 на проверку python">
+      <option name="closed" value="true" />
+      <created>1791214064651</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1791214064651</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Домашнее задание №4 на проверку python">
+      <option name="closed" value="true" />
+      <created>1791268145470</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1791268145470</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Домашнее задание №4 на проверку python">
+      <option name="closed" value="true" />
+      <created>1791269339496</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1791269339496</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <MESSAGE value="1234" />
+    <MESSAGE value="Домашнее задание №2 на проверке python" />
+    <MESSAGE value="Домашнее задание №1 на проверке python" />
+    <MESSAGE value="Домашнее задание №3 на проверку python" />
+    <MESSAGE value="Домашнее задание №4 на проверку python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание №4 на проверку python" />
+  </component>
+</project>
