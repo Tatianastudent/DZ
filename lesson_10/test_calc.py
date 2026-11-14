@@ -23,7 +23,6 @@ def test_calc(driver):
     """
     Тест проверяет работу калькулятора с различными операциями.
     :param driver: WebDriver — объект драйвера, переданный фикстурой.
-    :return: str, результат арифметического действия.
     """
     calc_page = CalcPage(
         driver,
