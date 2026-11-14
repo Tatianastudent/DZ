@@ -60,3 +60,12 @@ def test_get_project_id_negative():
     resp = api.get_project_id(invalid_id)
     message = resp['error']
     assert message == 'Not Found'
+
+    import pytest
+
+    @pytest.fixture
+    def project_id():
+        resp = api.create_project('Тестовый проект')
+        new_id = resp.json()["id"]
+        yield new_id
+        api.delete_project(new_id)

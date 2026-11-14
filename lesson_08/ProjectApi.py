@@ -46,3 +46,12 @@ class ProjectApi():
         resp = requests.get(self.url + f'/api-v2/projects/{id}',
                             headers=my_headers)
         return resp.json()
+
+    def delete_project(self, id):
+        my_token = self.get_token()
+        my_headers = {
+            "Content-Type": "application/json",
+            "Authorization": "Bearer " + my_token
+        }
+        return requests.put(self.url + f'/api-v2/projects/{id}',
+                            json={"deleted": True}, headers=my_headers)
