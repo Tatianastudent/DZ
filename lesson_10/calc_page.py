@@ -1,7 +1,7 @@
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from time import 'sleep'
+from time 
 import allure
 
 
@@ -39,7 +39,6 @@ class CalcPage():
             EC.presence_of_element_located(self.DELAY_INPYT))
         delay_input.clear()
         delay_input.send_keys(45)
-        sleep(5)
 
     @allure.step("Нажатие кнопок калькулятора.")
     def enter_nums(self):
