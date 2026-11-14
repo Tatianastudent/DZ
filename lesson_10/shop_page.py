@@ -61,7 +61,7 @@ class GoodsShopPage():
         self.wait = WebDriverWait(self.driver, 20)
 
     @allure.step("Добавить товары в корзину.")
-    def add_goods(self):
+    def add_goods(self) -> None:
         """
         Добавление товара в корзину.
         """
@@ -94,7 +94,7 @@ class CheckoutShopPage():
 
     @allure.step("Подтверждаем покупку и переходим на страницу данных "
                  "покупателя")
-    def checkout_shop_cart(self):
+    def checkout_shop_cart(self) -> None:
         """
         Проверка и подтверждение содержания корзины.
         """
@@ -127,7 +127,7 @@ class FormShopPage():
         self.wait = WebDriverWait(self.driver, 20)
 
     @allure.step("Заполнить данные покупателя.")
-    def fill_form(self):
+    def fill_form(self) -> None:
         """Заполнение формы данных покупателя.
         """
         first_name = self.wait.until(EC.presence_of_element_located(
