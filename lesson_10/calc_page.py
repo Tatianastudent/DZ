@@ -23,7 +23,7 @@ class CalcPage():
         self.wait = WebDriverWait(self.driver, 50)
 
     @allure.step("Открытие страницы калькулятора.")
-    def open_calc_page(self):
+    def open_calc_page(self) -> None:
         """
         Открывает страницу калькулятора.
         """
@@ -31,7 +31,7 @@ class CalcPage():
             "https://bonigarcia.dev/selenium-webdriver-java/slow-calculator.html")
 
     @allure.step("Установка задержки калькулятора.")
-    def delay_value(self) -> int:
+    def delay_value(self) -> None:
         """
         Устанавливает задержку калькулятора.
         """
@@ -41,7 +41,7 @@ class CalcPage():
         delay_input.send_keys(45)
 
     @allure.step("Нажатие кнопок калькулятора.")
-    def enter_nums(self):
+    def enter_nums(self) -> None:
         """
         Нажимает на несколько кнопок калькулятора по очереди.
         :param buttons: list[str] — список текстов на кнопках,
