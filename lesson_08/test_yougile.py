@@ -2,6 +2,13 @@ from ProjectApi import ProjectApi
 
 api = ProjectApi("https://ru.yougile.com")
 
+@pytest.fixture
+def project_id():
+        resp = api.create_project('Тестовый проект')
+        new_id = resp.json()["id"]
+        yield new_id
+        api.delete_project(new_id)
+
 
 def test_add_new_project_positive():
     title = 'Новый проект'
@@ -31,6 +38,7 @@ def test_get_project_id_positive():
     print(id_project)
     assert id_project["id"] == new_id
     assert result.status_code == 201
+    api.delete_project(new_id)
 
 
 def test_add_new_project_negative():
@@ -60,12 +68,3 @@ def test_get_project_id_negative():
     resp = api.get_project_id(invalid_id)
     message = resp['error']
     assert message == 'Not Found'
-
-    import pytest
-
-    @pytest.fixture
-    def project_id():
-        resp = api.create_project('Тестовый проект')
-        new_id = resp.json()["id"]
-        yield new_id
-        api.delete_project(new_id)
