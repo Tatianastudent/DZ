@@ -1,3 +1,4 @@
+import pytest
 from ProjectApi import ProjectApi
 
 api = ProjectApi("https://ru.yougile.com")
